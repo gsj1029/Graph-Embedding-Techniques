@@ -3,10 +3,10 @@ It provides some typical graph embedding techniques based on task-free or task-s
 
 ##### Table of Contents  
 
-1. [Unsupervised](#unsupervised)  
+1. [Unsupervised Plain Node Embedding](#unsupervised)  
 
 
-## Unsupervised
+## Unsupervised Plain Node Embedding
 
 - **DeepWalk: Online Learning of Social Representations (KDD'14).** [[Paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf) [[Python Code]](https://github.com/phanein/deepwalk)
 
