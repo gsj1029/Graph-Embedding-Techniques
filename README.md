@@ -5,6 +5,8 @@ It provides some typical graph embedding techniques based on task-free or task-s
 
 1. [Unsupervised Pure Network Embedding](#unsupervised-pure-network-embedding)
 2. [Unsupervised Attributed Network Embedding (node attribute vectors)](#unsupervised-attributed-network-embedding)
+3. [Unsupervised Attributed Network Embedding (text content)]
+4. [Semi-supervised Attributed Network Embedding (Graph Neural Network)]
 
 
 ## Unsupervised Pure Network Embedding
@@ -24,6 +26,7 @@ It provides some typical graph embedding techniques based on task-free or task-s
 
 - **Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1707.03815.pdf)[[OpenReview]](https://openreview.net/forum?id=r1ZdKJ-0W) [[Python Code]](https://github.com/abojchevski/graph2gauss)
 
+
 ## Unsupervised Attributed Network Embedding (text content)
 
 - **Network Representation Learning with Rich Text Information (IJCAI'15).** [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Python Code]](https://github.com/thunlp/CANE)
@@ -31,3 +34,16 @@ It provides some typical graph embedding techniques based on task-free or task-s
 - **CANE: Context-Aware Network Embedding for Relation Modeling (ACL'17).** [[Paper]](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf) [[MATLAB Code]](https://github.com/albertyang33/TADW)
 
 - **Diffusion Maps for Textual Network Embedding (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding) [[Python Code]](https://github.com/dylanz0426/DMTE)
+
+
+## Semi-supervised Attributed Network Embedding (Graph Neural Network)
+
+- **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Python Code]](https://github.com/tkipf/gcn)
+
+- **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1801.10247.pdf)[[OpenReview]](https://openreview.net/forum?id=rytstxWAW) [[Python Code]](https://github.com/matenure/FastGCN)
+
+- **Adaptive Sampling Towards Fast Graph Representation Learning (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7707-adaptive-sampling-towards-fast-graph-representation-learning) [[Python Code]](https://github.com/huangwb/AS-GCN)
+
+- **Stochastic Training of Graph Convolutional Networks with Variance Reduction (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/chen18p.html) [[Python Code]](https://github.com/thu-ml/stochastic_gcn)
+
+- **Graph Attention Networks (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1710.10903.pdf)[[OpenReview]](https://openreview.net/forum?id=rJXMpikCZ) [[Python Code]](https://github.com/PetarV-/GAT)
