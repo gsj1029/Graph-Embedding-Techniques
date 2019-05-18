@@ -4,9 +4,9 @@ It provides some typical graph embedding techniques based on task-free or task-s
 ##### Table of Contents  
 
 1. [Unsupervised Pure Network Embedding](#unsupervised-pure-network-embedding)
-2. [Unsupervised Attributed Network Embedding (node attribute vectors)](#unsupervised-attributed-network-embedding-node)
-3. [Unsupervised Attributed Network Embedding (text content)](#unsupervised-attributed-network-embedding-text)
-4. [Semi-supervised Attributed Network Embedding (Graph Neural Network)](#semi-supervised-attributed-network-embedding)
+2. [Unsupervised Attributed Network Embedding (node attribute vectors)](#unsupervised-attributed-network-embedding-(node-attribute vectors))
+3. [Unsupervised Attributed Network Embedding (text content)](#unsupervised-attributed-network-embedding-text-content)
+4. [Semi-supervised Attributed Network Embedding (Graph Neural Networks)](#semi-supervised-attributed-network-embedding-graph-neural-networks)
 
 
 ## Unsupervised Pure Network Embedding
@@ -36,7 +36,7 @@ It provides some typical graph embedding techniques based on task-free or task-s
 - **Diffusion Maps for Textual Network Embedding (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding) [[Python Code]](https://github.com/dylanz0426/DMTE)
 
 
-## Semi-supervised Attributed Network Embedding (Graph Neural Network)
+## Semi-supervised Attributed Network Embedding (Graph Neural Networks)
 
 - **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Code]](https://github.com/tkipf/gcn)
 
