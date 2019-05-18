@@ -7,11 +7,11 @@ It provides some interesting graph embedding techniques based on task-free or ta
 2. [Attributed Network Embedding (Attribute Vectors)](#attributed-network-embedding-attribute-vectors)
 3. [Attributed Network Embedding (Text Content)](#attributed-network-embedding-text-content)
 4. [Graph Neural Networks](#graph-neural-networks)
-    4.1 [Node Classification](#node-classification)
-    4.2 [Graph Classification](#graph-classification)
+4.1 [Node Classification](#node-classification)
+4.2 [Graph Classification](#graph-classification)
 
 
-## Pure Network Embedding
+## 1. Pure Network Embedding
 
 - **DeepWalk: Online Learning of Social Representations (KDD'14).** [[Paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf) [[Python Code]](https://github.com/phanein/deepwalk)
 
@@ -20,7 +20,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **node2vec: Scalable Feature Learning for Networks (KDD'16).** [[Paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf) [[Project]](https://snap.stanford.edu/node2vec/#code)[[Python Code]](https://github.com/aditya-grover/node2vec)
 
 
-## Attributed Network Embedding (Attribute Vectors)
+## 2. Attributed Network Embedding (Attribute Vectors)
 
 - **Label Informed Attributed Network Embedding (WSDM'17).** [[Paper]](http://www.public.asu.edu/~jundongl/paper/WSDM17_LANE.pdf) [[MATLAB Code]](https://github.com/xhuang31/LANE)
 
@@ -29,7 +29,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1707.03815.pdf)[[OpenReview]](https://openreview.net/forum?id=r1ZdKJ-0W) [[Python Code]](https://github.com/abojchevski/graph2gauss)
 
 
-## Attributed Network Embedding (Text Content)
+## 3. Attributed Network Embedding (Text Content)
 
 - **Network Representation Learning with Rich Text Information (IJCAI'15).** [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[MATLAB Code]](https://github.com/albertyang33/TADW)
 
@@ -38,9 +38,9 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **Diffusion Maps for Textual Network Embedding (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding) [[Python Code]](https://github.com/dylanz0426/DMTE)
 
 
-## Graph Neural Networks 
+## 4. Graph Neural Networks 
 
-## Node Classification
+## 4.1 Node Classification
 
 - **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Code]](https://github.com/tkipf/gcn)
 
@@ -52,7 +52,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Graph Attention Networks (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1710.10903.pdf)[[OpenReview]](https://openreview.net/forum?id=rJXMpikCZ) [[Code]](https://github.com/PetarV-/GAT)
 
-## Graph Classification
+## 4.2 Graph Classification
 
 - **Learning Convolutional Neural Networks for Graphs (ICML'16).** [[Paper]](http://proceedings.mlr.press/v48/niepert16.pdf) [[Code]](https://github.com/tvayer/PSCN)
 
