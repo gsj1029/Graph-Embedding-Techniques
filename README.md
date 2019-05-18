@@ -1,5 +1,5 @@
 # Graph-Embedding-Techniques
-It provides some typical graph embedding techniques based on task-free or task-specific intuitions.
+It provides some interesting graph embedding techniques based on task-free or task-specific intuitions.
 
 ##### Table of Contents  
 
@@ -7,6 +7,7 @@ It provides some typical graph embedding techniques based on task-free or task-s
 2. [Attributed Network Embedding (Attribute Vectors)](#attributed-network-embedding-attribute-vectors)
 3. [Attributed Network Embedding (Text Content)](#attributed-network-embedding-text-content)
 4. [Graph Neural Networks (Semi-supervised Node Classification)](#graph-neural-networks-semi-supervised-node-classification)
+5. [Graph Neural Networks (Graph Classification)](#graph-neural-networks-graph-classification)
 
 
 ## Pure Network Embedding
@@ -47,3 +48,11 @@ It provides some typical graph embedding techniques based on task-free or task-s
 - **Stochastic Training of Graph Convolutional Networks with Variance Reduction (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/chen18p.html) [[Code]](https://github.com/thu-ml/stochastic_gcn)
 
 - **Graph Attention Networks (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1710.10903.pdf)[[OpenReview]](https://openreview.net/forum?id=rJXMpikCZ) [[Code]](https://github.com/PetarV-/GAT)
+
+## Graph Neural Networks (Graph Classification)
+
+- **Learning Convolutional Neural Networks for Graphs (ICML'16).** [[Paper]](http://proceedings.mlr.press/v48/niepert16.pdf) [[Code]](https://github.com/tvayer/PSCN)
+
+- **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI'19)** [[Paper]](https://arxiv.org/pdf/1810.02244.pdf) [[Code]](https://github.com/chrsmrrs/k-gnn)
+
+- **How Powerful are Graph Neural Networks? (ICLR'19).** [[Paper]](https://arxiv.org/pdf/1810.00826.pdf)[[OpenReview]](https://openreview.net/forum?id=ryGs6iA5Km)[[Code]](https://github.com/weihua916/powerful-gnns)
