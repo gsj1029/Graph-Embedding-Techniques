@@ -9,6 +9,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 4. [Graph Neural Networks](#4-graph-neural-networks)
     * 4.1. [Node Classification](#41-node-classification)
     * 4.2. [Graph Classification](#42-graph-classification)
+    * 4.3. [Rare Category Characterization](#43-rare-category-chracterization)
+
 
 
 ## 1. Pure Network Embedding
@@ -65,3 +67,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **How Powerful are Graph Neural Networks? (ICLR'19).** [[Paper]](https://arxiv.org/pdf/1810.00826.pdf)[[OpenReview]](https://openreview.net/forum?id=ryGs6iA5Km)[[Code]](https://github.com/weihua916/powerful-gnns)
 
 - **Capsule Graph Neural Network (ICLR'19).** [[Paper]](https://openreview.net/pdf?id=Byl8BnRcYm)[[OpenReview]](https://openreview.net/forum?id=Byl8BnRcYm)[[Code]](https://github.com/XinyiZ001/CapsGNN)
+
+### 4.3. Rare Category Characterization
+
+- **SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization (KDD'18).** [[Paper]](http://www.public.asu.edu/~dzhou23/papers/KDD2018_SPARC.pdf) [[Code]](https://www.public.asu.edu/~dzhou23/)
