@@ -4,7 +4,7 @@ It provides some typical graph embedding techniques based on task-free or task-s
 ##### Table of Contents  
 
 1. [Unsupervised Pure Network Embedding](#unsupervised-pure-network-embedding)
-2. [Unsupervised Attributed Network Embedding (node attribute vectors)](#unsupervised-attributed-network-embedding-(node-attribute vectors))
+2. [Unsupervised Attributed Network Embedding (node attribute vectors)](#unsupervised-attributed-network-embedding-node-attribute-vectors)
 3. [Unsupervised Attributed Network Embedding (text content)](#unsupervised-attributed-network-embedding-text-content)
 4. [Semi-supervised Attributed Network Embedding (Graph Neural Networks)](#semi-supervised-attributed-network-embedding-graph-neural-networks)
 
