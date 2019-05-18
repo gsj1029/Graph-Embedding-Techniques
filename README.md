@@ -9,7 +9,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 4. [Graph Neural Networks](#4-graph-neural-networks)
     * 4.1. [Node Classification](#41-node-classification)
     * 4.2. [Graph Classification](#42-graph-classification)
-    * 4.3. [Rare Category Characterization](#43-rare-category-chracterization)
+    * 4.3. [Rare Category Characterization](#43-rare-category-characterization)
 
 
 
