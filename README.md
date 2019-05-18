@@ -60,3 +60,5 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI'19).** [[Paper]](https://arxiv.org/pdf/1810.02244.pdf) [[Code]](https://github.com/chrsmrrs/k-gnn)
 
 - **How Powerful are Graph Neural Networks? (ICLR'19).** [[Paper]](https://arxiv.org/pdf/1810.00826.pdf)[[OpenReview]](https://openreview.net/forum?id=ryGs6iA5Km)[[Code]](https://github.com/weihua916/powerful-gnns)
+
+- **Capsule Graph Neural Network (ICLR'19).** [[Paper]](https://openreview.net/pdf?id=Byl8BnRcYm)[[OpenReview]](https://openreview.net/forum?id=Byl8BnRcYm)[[Code]](https://github.com/XinyiZ001/CapsGNN)
