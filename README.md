@@ -3,13 +3,13 @@ It provides some typical graph embedding techniques based on task-free or task-s
 
 ##### Table of Contents  
 
-1. [Unsupervised Pure Network Embedding](#unsupervised-pure-network-embedding)
-2. [Unsupervised Attributed Network Embedding (Attribute Vectors)](#unsupervised-attributed-network-embedding-attribute-vectors)
-3. [Unsupervised Attributed Network Embedding (Text Content)](#unsupervised-attributed-network-embedding-text-content)
-4. [Semi-supervised Attributed Network Embedding (Graph Neural Networks)](#semi-supervised-attributed-network-embedding-graph-neural-networks)
+1. [Pure Network Embedding](#pure-network-embedding)
+2. [Attributed Network Embedding (Attribute Vectors)](#attributed-network-embedding-attribute-vectors)
+3. [Attributed Network Embedding (Text Content)](#attributed-network-embedding-text-content)
+4. [Graph Neural Networks](#graph-neural-networks)
 
 
-## Unsupervised Pure Network Embedding
+## Pure Network Embedding
 
 - **DeepWalk: Online Learning of Social Representations (KDD'14).** [[Paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf) [[Python Code]](https://github.com/phanein/deepwalk)
 
@@ -18,7 +18,7 @@ It provides some typical graph embedding techniques based on task-free or task-s
 - **node2vec: Scalable Feature Learning for Networks (KDD'16).** [[Paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf) [[Project]](https://snap.stanford.edu/node2vec/#code)[[Python Code]](https://github.com/aditya-grover/node2vec)
 
 
-## Unsupervised Attributed Network Embedding (Attribute Vectors)
+## Attributed Network Embedding (Attribute Vectors)
 
 - **Label Informed Attributed Network Embedding (WSDM'17).** [[Paper]](http://www.public.asu.edu/~jundongl/paper/WSDM17_LANE.pdf) [[MATLAB Code]](https://github.com/xhuang31/LANE)
 
@@ -27,7 +27,7 @@ It provides some typical graph embedding techniques based on task-free or task-s
 - **Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1707.03815.pdf)[[OpenReview]](https://openreview.net/forum?id=r1ZdKJ-0W) [[Python Code]](https://github.com/abojchevski/graph2gauss)
 
 
-## Unsupervised Attributed Network Embedding (Text Content)
+## Attributed Network Embedding (Text Content)
 
 - **Network Representation Learning with Rich Text Information (IJCAI'15).** [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[MATLAB Code]](https://github.com/albertyang33/TADW)
 
@@ -36,7 +36,7 @@ It provides some typical graph embedding techniques based on task-free or task-s
 - **Diffusion Maps for Textual Network Embedding (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding) [[Python Code]](https://github.com/dylanz0426/DMTE)
 
 
-## Semi-supervised Attributed Network Embedding (Graph Neural Networks)
+## Graph Neural Networks
 
 - **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Code]](https://github.com/tkipf/gcn)
 
