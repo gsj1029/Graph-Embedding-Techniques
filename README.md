@@ -1,14 +1,14 @@
 # Graph-Embedding-Techniques
 It provides some interesting graph embedding techniques based on task-free or task-specific intuitions.
 
-##### Table of Contents  
+## Table of Contents  
 
 1. [Pure Network Embedding](#pure-network-embedding)
 2. [Attributed Network Embedding (Attribute Vectors)](#attributed-network-embedding-attribute-vectors)
 3. [Attributed Network Embedding (Text Content)](#attributed-network-embedding-text-content)
 4. [Graph Neural Networks](#graph-neural-networks)
-4.1 [Node Classification](#node-classification)
-4.2 [Graph Classification](#graph-classification)
+4.1 [Node Classification](##node-classification)
+4.2 [Graph Classification](##graph-classification)
 
 
 ## 1. Pure Network Embedding
@@ -40,7 +40,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 ## 4. Graph Neural Networks 
 
-### 4.1 Node Classification
+#### 4.1 Node Classification
 
 - **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Code]](https://github.com/tkipf/gcn)
 
@@ -52,7 +52,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Graph Attention Networks (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1710.10903.pdf)[[OpenReview]](https://openreview.net/forum?id=rJXMpikCZ) [[Code]](https://github.com/PetarV-/GAT)
 
-### 4.2 Graph Classification
+#### 4.2 Graph Classification
 
 - **Learning Convolutional Neural Networks for Graphs (ICML'16).** [[Paper]](http://proceedings.mlr.press/v48/niepert16.pdf) [[Code]](https://github.com/tvayer/PSCN)
 
