@@ -4,11 +4,11 @@ It provides some interesting graph embedding techniques based on task-free or ta
 ## Table of Contents  
 
 1. [Pure Network Embedding](#1-pure-network-embedding)
-2. [Attributed Network Embedding (2-Attribute Vectors)](#attributed-network-embedding-attribute-vectors)
-3. [Attributed Network Embedding (Text Content)](#attributed-network-embedding-text-content)
-4. [Graph Neural Networks](#graph-neural-networks)
-4.1 [Node Classification](#node-classification)
-4.2 [Graph Classification](#graph-classification)
+2. [Attributed Network Embedding (Attribute Vectors)](#2-attributed-network-embedding-attribute-vectors)
+3. [Attributed Network Embedding (Text Content)](#3-attributed-network-embedding-text-content)
+4. [Graph Neural Networks](#4-graph-neural-networks)
+4.1 [Node Classification](#4-1-node-classification)
+4.2 [Graph Classification](#4-2-graph-classification)
 
 
 ## 1. Pure Network Embedding
