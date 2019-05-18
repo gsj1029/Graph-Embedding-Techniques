@@ -26,6 +26,8 @@ It provides some typical graph embedding techniques based on task-free or task-s
 
 ## Unsupervised Attributed Network Embedding (text content)
 
-- **CANE: Context-Aware Network Embedding for Relation Modeling (ACL'17).** [[Paper]](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf) [[Python Code]](https://github.com/thunlp/CANE)
+- **Network Representation Learning with Rich Text Information (IJCAI'15).** [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Python Code]](https://github.com/thunlp/CANE)
 
-- **Diffusion Maps for Textual Network Embedding (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding) [[Python Code]](https://github.com/thunlp/CANE)
+- **CANE: Context-Aware Network Embedding for Relation Modeling (ACL'17).** [[Paper]](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf) [[MATLAB Code]](https://github.com/albertyang33/TADW)
+
+- **Diffusion Maps for Textual Network Embedding (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding) [[Python Code]](https://github.com/dylanz0426/DMTE)
