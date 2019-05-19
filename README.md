@@ -50,6 +50,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Code]](https://github.com/tkipf/gcn)
 
+- **Neural Message Passing for Quantum Chemistry (ICML'17).** [[Paper]](https://arxiv.org/pdf/1704.01212.pdf) [[Code]](https://github.com/priba/nmp_qc)
+
 - **Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning (AAAI'18).** [[Paper]](https://arxiv.org/pdf/1801.07606.pdf) [[Code]](https://github.com/YuCheng12345/gcn_Co-Training_Self-Training)
 
 - **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1801.10247.pdf)[[OpenReview]](https://openreview.net/forum?id=rytstxWAW) [[Code]](https://github.com/matenure/FastGCN)
@@ -59,6 +61,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **Stochastic Training of Graph Convolutional Networks with Variance Reduction (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/chen18p.html) [[Code]](https://github.com/thu-ml/stochastic_gcn)
 
 - **Graph Attention Networks (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1710.10903.pdf)[[OpenReview]](https://openreview.net/forum?id=rJXMpikCZ) [[Code]](https://github.com/PetarV-/GAT)
+
+- **Relational Inductive Biases, Deep Learning, and Graph Networks (arXiv'18).** [[Paper]](https://arxiv.org/pdf/1806.01261.pdf) [[Code]](https://github.com/deepmind/graph_nets)
 
 #### 4.2. Graph Classification
 
