@@ -46,6 +46,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 #### 4.1. Node Classification
 
+- **Geometric Deep Learning: Going beyond Euclidean data (SPM'17).** [[Paper]](https://ieeexplore.ieee.org/abstract/document/7974879) [[Project]](http://geometricdeeplearning.com)
+
 - **Inductive Representation Learning on Large Graphs (NIPS'17).** [[Paper]](https://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf) [[Project]](http://snap.stanford.edu/graphsage/) [[Code]](https://github.com/williamleif/GraphSAGE)
 
 - **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Code]](https://github.com/tkipf/gcn)
