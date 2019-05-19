@@ -86,8 +86,6 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Deriving Neural Architectures from Sequence and Graph Kernels (ICML'17)** [[Paper]](https://arxiv.org/pdf/1705.09037.pdf) [[Code]](https://github.com/taolei87/icml17_knn)
 
-- **Anonymous Walk Embeddings (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/ivanov18a/ivanov18a.pdf) [[Code]](https://github.com/nd7141/AWE)
-
 - **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI'19).** [[Paper]](https://arxiv.org/pdf/1810.02244.pdf) [[Code]](https://github.com/chrsmrrs/k-gnn)
 
 - **How Powerful are Graph Neural Networks? (ICLR'19).** [[Paper]](https://arxiv.org/pdf/1810.00826.pdf)[[OpenReview]](https://openreview.net/forum?id=ryGs6iA5Km)[[Code]](https://github.com/weihua916/powerful-gnns)
@@ -103,4 +101,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 ### 4. Graph Kernels
 
-- **RetGK: Graph Kernels based on Return Probabilities of Random Walks (NIPS'18)** [[Paper]](https://papers.nips.cc/paper/7652-retgk-graph-kernels-based-on-return-probabilities-of-random-walks) [[Code]](https://sites.wustl.edu/zhenzhang/publication/)
+- **Matching Node Embeddings for Graph Similarity (AAAI'17).** [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494/14426) [[Code]](http://www.lix.polytechnique.fr/Labo/Ioannis.Nikolentzos/)
+
+- **RetGK: Graph Kernels based on Return Probabilities of Random Walks (NIPS'18).** [[Paper]](https://papers.nips.cc/paper/7652-retgk-graph-kernels-based-on-return-probabilities-of-random-walks) [[Code]](https://sites.wustl.edu/zhenzhang/publication/)
+
+- **Anonymous Walk Embeddings (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/ivanov18a/ivanov18a.pdf) [[Code]](https://github.com/nd7141/AWE)
