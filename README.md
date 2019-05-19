@@ -6,12 +6,13 @@ It provides some interesting graph embedding techniques based on task-free or ta
 1. [Pure Network Embedding](#1-pure-network-embedding)
     * 1.1. [Node Proximity Relationship](#11-node-proximity-relationship)
     * 1.2. [Structural Identity](#12-structural-identity)
-2. [Attributed Network Embedding (Attribute Vectors)](#2-attributed-network-embedding-attribute-vectors)
-3. [Attributed Network Embedding (Text Content)](#3-attributed-network-embedding-text-content)
-4. [Graph Neural Networks](#4-graph-neural-networks)
-    * 4.1. [Node Classification](#41-node-classification)
-    * 4.2. [Graph Classification](#42-graph-classification)
-    * 4.3. [Rare Category Characterization](#43-rare-category-characterization)
+2. [Attributed Network Embedding](#2-attributed-network-embedding)
+    * 2.1. [Attribute Vectors](#21-attribute-vectors)
+    * 2.2. [Text Content](#22-text-content)
+3. [Graph Neural Networks](#4-graph-neural-networks)
+    * 3.1. [Node Classification](#31-node-classification)
+    * 3.2. [Graph Classification](#32-graph-classification)
+    * 3.3. [Rare Category Characterization](#33-rare-category-characterization)
 
 
 
@@ -33,7 +34,9 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Learning Structural Node Embeddings via Diffusion Wavelets (KDD'18).** [[Paper]](https://cs.stanford.edu/people/jure/pubs/graphwave-kdd18.pdf) [[Project]](http://snap.stanford.edu/graphwave/) [[Python Code]](https://github.com/snap-stanford/graphwave)
 
-### 2. Attributed Network Embedding (Attribute Vectors)
+### 2. Attributed Network Embedding
+
+#### 2.1 Attribute Vectors
 
 - **Label Informed Attributed Network Embedding (WSDM'17).** [[Paper]](http://www.public.asu.edu/~jundongl/paper/WSDM17_LANE.pdf) [[MATLAB Code]](https://github.com/xhuang31/LANE)
 
@@ -42,7 +45,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1707.03815.pdf)[[OpenReview]](https://openreview.net/forum?id=r1ZdKJ-0W) [[Python Code]](https://github.com/abojchevski/graph2gauss)
 
 
-### 3. Attributed Network Embedding (Text Content)
+#### 2.2. Text Content
 
 - **Network Representation Learning with Rich Text Information (IJCAI'15).** [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[MATLAB Code]](https://github.com/albertyang33/TADW)
 
@@ -51,9 +54,9 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **Diffusion Maps for Textual Network Embedding (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding) [[Python Code]](https://github.com/dylanz0426/DMTE)
 
 
-### 4. Graph Neural Networks 
+### 3. Graph Neural Networks 
 
-#### 4.1. Node Classification
+#### 3.1. Node Classification
 
 - **Diffusion-Convolutional Neural Networks (NIPS'16).** [[Paper]](https://arxiv.org/pdf/1511.02136.pdf) [[Code]](https://github.com/jcatw/dcnn)
 
@@ -77,7 +80,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Relational Inductive Biases, Deep Learning, and Graph Networks (arXiv'18).** [[Paper]](https://arxiv.org/pdf/1806.01261.pdf) [[Code]](https://github.com/deepmind/graph_nets)
 
-#### 4.2. Graph Classification
+#### 3.2. Graph Classification
 
 - **Learning Convolutional Neural Networks for Graphs (ICML'16).** [[Paper]](http://proceedings.mlr.press/v48/niepert16.pdf) [[Code]](https://github.com/tvayer/PSCN)
 
@@ -91,7 +94,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Capsule Graph Neural Network (ICLR'19).** [[Paper]](https://openreview.net/pdf?id=Byl8BnRcYm)[[OpenReview]](https://openreview.net/forum?id=Byl8BnRcYm)[[Code]](https://github.com/XinyiZ001/CapsGNN)
 
-#### 4.3. Rare Category Characterization
+#### 3.3. Rare Category Characterization
 
 - **SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization (KDD'18).** [[Paper]](http://www.public.asu.edu/~dzhou23/papers/KDD2018_SPARC.pdf) [[Code]](https://www.public.asu.edu/~dzhou23/)
 
