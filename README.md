@@ -46,6 +46,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Semi-Supervised Classification with Graph Convolutional Networks (ICLR'17).** [[Paper]](https://arxiv.org/pdf/1609.02907.pdf)[[OpenReview]](https://openreview.net/forum?id=SJU4ayYgl) [[Code]](https://github.com/tkipf/gcn)
 
+- **Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning (AAAI'18).** [[Paper]](https://arxiv.org/pdf/1801.07606.pdf) [[Code]](https://github.com/YuCheng12345/gcn_Co-Training_Self-Training)
+
 - **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1801.10247.pdf)[[OpenReview]](https://openreview.net/forum?id=rytstxWAW) [[Code]](https://github.com/matenure/FastGCN)
 
 - **Adaptive Sampling Towards Fast Graph Representation Learning (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7707-adaptive-sampling-towards-fast-graph-representation-learning) [[Code]](https://github.com/huangwb/AS-GCN)
