@@ -9,11 +9,11 @@ It provides some interesting graph embedding techniques based on task-free or ta
 2. [Attributed Network Embedding](#2-attributed-network-embedding)
     * 2.1. [Attribute Vectors](#21-attribute-vectors)
     * 2.2. [Text Content](#22-text-content)
-3. [Graph Neural Networks](#4-graph-neural-networks)
+3. [Graph Neural Networks](#3-graph-neural-networks)
     * 3.1. [Node Classification](#31-node-classification)
     * 3.2. [Graph Classification](#32-graph-classification)
     * 3.3. [Rare Category Characterization](#33-rare-category-characterization)
-
+4. [Graph Kernels](#4-graph-kernels)
 
 
 ### 1. Pure Network Embedding
@@ -100,3 +100,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding (AAAI'18).**
 [[Paper]](https://pdfs.semanticscholar.org/ae42/7d5ca009bf1af53af01249e19d67385744ff.pdf) [[Code]](https://github.com/zhengwang100/RSDNE)
+
+### 4. Graph Kernels
+
+- **RetGK: Graph Kernels based on Return Probabilities of Random Walks (NIPS'18)** [[Paper]](https://papers.nips.cc/paper/7652-retgk-graph-kernels-based-on-return-probabilities-of-random-walks) [[Code]](https://sites.wustl.edu/zhenzhang/publication/)
