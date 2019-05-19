@@ -12,7 +12,9 @@ It provides some interesting graph embedding techniques based on task-free or ta
 3. [Graph Neural Networks](#3-graph-neural-networks)
     * 3.1. [Node Classification](#31-node-classification)
     * 3.2. [Graph Classification](#32-graph-classification)
-    * 3.3. [Rare Category Characterization](#33-rare-category-characterization)
+    * 3.3. [Link Prediction](#33-link-prediction)
+    * 3.4. [Community Detection](#34-community-detection)
+    * 3.5. [Rare Category Characterization](#35-rare-category-characterization)
 4. [Graph Kernels](#4-graph-kernels)
 
 
@@ -94,7 +96,13 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Capsule Graph Neural Network (ICLR'19).** [[Paper]](https://openreview.net/pdf?id=Byl8BnRcYm)[[OpenReview]](https://openreview.net/forum?id=Byl8BnRcYm)[[Code]](https://github.com/XinyiZ001/CapsGNN)
 
-#### 3.3. Rare Category Characterization
+#### 3.3. Link Prediction
+
+- **Link Prediction Based on Graph Neural Networks (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks) [[Code]](https://github.com/muhanzhang/SEAL)
+
+#### 3.4. Community Detection
+
+#### 3.5. Rare Category Characterization
 
 - **SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization (KDD'18).** [[Paper]](http://www.public.asu.edu/~dzhou23/papers/KDD2018_SPARC.pdf) [[Code]](https://www.public.asu.edu/~dzhou23/)
 
