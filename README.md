@@ -31,7 +31,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **struc2vec: Learning Node Representations from Structural Identity (KDD'17).** [[Paper]](https://arxiv.org/pdf/1704.03165.pdf) [[Python Code]](https://github.com/leoribeiro/struc2vec)
 
-- **Learning Structural Node Embeddings via Diffusion Wavelets (KDD'18).** [[Paper]](https://cs.stanford.edu/people/jure/pubs/graphwave-kdd18.pdf) [[Project]](http://snap.stanford.edu/graphwave/) [[Code]](https://github.com/snap-stanford/graphwave)
+- **Learning Structural Node Embeddings via Diffusion Wavelets (KDD'18).** [[Paper]](https://cs.stanford.edu/people/jure/pubs/graphwave-kdd18.pdf) [[Project]](http://snap.stanford.edu/graphwave/) [[Python Code]](https://github.com/snap-stanford/graphwave)
 
 ### 2. Attributed Network Embedding (Attribute Vectors)
 
