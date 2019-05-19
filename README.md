@@ -102,6 +102,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 #### 3.4. Community Detection
 
+- **Supervised Community Detection with Line Graph Neural Networks (ICLR'19).** [[Paper]](https://arxiv.org/pdf/1705.08415.pdf) [[Code]](https://github.com/afansi/multiscalegnn)
+
 #### 3.5. Rare Category Characterization
 
 - **SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization (KDD'18).** [[Paper]](http://www.public.asu.edu/~dzhou23/papers/KDD2018_SPARC.pdf) [[Code]](https://www.public.asu.edu/~dzhou23/)
