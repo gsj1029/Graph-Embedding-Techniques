@@ -84,7 +84,9 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Learning Convolutional Neural Networks for Graphs (ICML'16).** [[Paper]](http://proceedings.mlr.press/v48/niepert16.pdf) [[Code]](https://github.com/tvayer/PSCN)
 
-- **Deriving Neural Architectures from Sequence and Graph Kernels (ICML'17)** [[Paper]](https://arxiv.org/pdf/1705.09037.pdf) [[Code]](https://github.com/taolei87/icml17_knn)
+- **Deriving Neural Architectures from Sequence and Graph Kernels (ICML'17).** [[Paper]](https://arxiv.org/pdf/1705.09037.pdf) [[Code]](https://github.com/taolei87/icml17_knn)
+
+- **An End-to-End Deep Learning Architecture for Graph Classification (AAAI'18).** [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755) [[Code]](https://github.com/muhanzhang/pytorch_DGCNN)
 
 - **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI'19).** [[Paper]](https://arxiv.org/pdf/1810.02244.pdf) [[Code]](https://github.com/chrsmrrs/k-gnn)
 
