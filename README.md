@@ -21,6 +21,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **node2vec: Scalable Feature Learning for Networks (KDD'16).** [[Paper]](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf) [[Project]](https://snap.stanford.edu/node2vec/#code)[[Python Code]](https://github.com/aditya-grover/node2vec)
 
+- **Watch Your Step: Learning Node Embeddings via Graph Attention (NIPS'18).** [[Paper]](https://arxiv.org/pdf/1710.09599.pdf) [[Python Code]](https://github.com/benedekrozemberczki/AttentionWalk)
+
 
 ### 2. Attributed Network Embedding (Attribute Vectors)
 
