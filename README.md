@@ -4,6 +4,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 ### Table of Contents  
 
 1. [Pure Network Embedding](#1-pure-network-embedding)
+    * 1.1. [Node Proximity Relationship](#11-node-proximity-relationship)
+    * 1.2. [Structural Identity](#12-structural-identity)
 2. [Attributed Network Embedding (Attribute Vectors)](#2-attributed-network-embedding-attribute-vectors)
 3. [Attributed Network Embedding (Text Content)](#3-attributed-network-embedding-text-content)
 4. [Graph Neural Networks](#4-graph-neural-networks)
@@ -15,6 +17,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 ### 1. Pure Network Embedding
 
+#### 1.1. Node Proximity Relationship
+
 - **DeepWalk: Online Learning of Social Representations (KDD'14).** [[Paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf) [[Python Code]](https://github.com/phanein/deepwalk)
 
 - **LINE: Large-scale Information Network Embedding (WWW'15).** [[Paper]](http://www.www2015.it/documents/proceedings/proceedings/p1067.pdf) [[C++ Code]](https://github.com/tangjianpku/LINE)
@@ -23,6 +27,11 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Watch Your Step: Learning Node Embeddings via Graph Attention (NIPS'18).** [[Paper]](https://arxiv.org/pdf/1710.09599.pdf) [[Python Code]](https://github.com/benedekrozemberczki/AttentionWalk)
 
+#### 1.2. Structural Identity
+
+- **struc2vec: Learning Node Representations from Structural Identity (KDD'17).** [[Paper]](https://arxiv.org/pdf/1704.03165.pdf) [[Python Code]](https://github.com/leoribeiro/struc2vec)
+
+- **Learning Structural Node Embeddings via Diffusion Wavelets (KDD'18).** [[Paper]](https://cs.stanford.edu/people/jure/pubs/graphwave-kdd18.pdf) [[Project]](http://snap.stanford.edu/graphwave/) [[Code]](https://github.com/snap-stanford/graphwave)
 
 ### 2. Attributed Network Embedding (Attribute Vectors)
 
