@@ -106,3 +106,5 @@ It provides some interesting graph embedding techniques based on task-free or ta
 - **RetGK: Graph Kernels based on Return Probabilities of Random Walks (NIPS'18).** [[Paper]](https://papers.nips.cc/paper/7652-retgk-graph-kernels-based-on-return-probabilities-of-random-walks) [[Code]](https://sites.wustl.edu/zhenzhang/publication/)
 
 - **Anonymous Walk Embeddings (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/ivanov18a/ivanov18a.pdf) [[Code]](https://github.com/nd7141/AWE)
+
+- **Scalable Global Alignment Graph Kernel Using Random Features: From Node Embedding to Graph Embedding (KDD'19).** [[Paper]]() [[Code]](https://sites.google.com/a/email.wm.edu/teddy-lfwu/publications?authuser=0)
