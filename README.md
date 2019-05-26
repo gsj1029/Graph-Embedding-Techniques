@@ -30,6 +30,8 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Watch Your Step: Learning Node Embeddings via Graph Attention (NIPS'18).** [[Paper]](https://arxiv.org/pdf/1710.09599.pdf) [[Python Code]](https://github.com/benedekrozemberczki/AttentionWalk)
 
+- **Deep Graph Infomax (ICLR'19).** [[Paper]](https://arxiv.org/pdf/1809.10341.pdf) [[OpenReview]](https://openreview.net/forum?id=rklz9iAcKQ) [[Code]](https://github.com/PetarV-/DGI)
+
 #### 1.2. Structural Identity
 
 - **struc2vec: Learning Node Representations from Structural Identity (KDD'17).** [[Paper]](https://arxiv.org/pdf/1704.03165.pdf) [[Python Code]](https://github.com/leoribeiro/struc2vec)
