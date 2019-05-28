@@ -76,8 +76,6 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1801.10247.pdf)[[OpenReview]](https://openreview.net/forum?id=rytstxWAW) [[Code]](https://github.com/matenure/FastGCN)
 
-- **Adaptive Sampling Towards Fast Graph Representation Learning (NIPS'18).** [[Paper]](http://papers.nips.cc/paper/7707-adaptive-sampling-towards-fast-graph-representation-learning) [[Code]](https://github.com/huangwb/AS-GCN)
-
 - **Stochastic Training of Graph Convolutional Networks with Variance Reduction (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/chen18p.html) [[Code]](https://github.com/thu-ml/stochastic_gcn)
 
 - **Graph Attention Networks (ICLR'18).** [[Paper]](https://arxiv.org/pdf/1710.10903.pdf)[[OpenReview]](https://openreview.net/forum?id=rJXMpikCZ) [[Code]](https://github.com/PetarV-/GAT)
