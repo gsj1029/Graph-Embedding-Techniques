@@ -119,4 +119,4 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 - **Anonymous Walk Embeddings (ICML'18).** [[Paper]](http://proceedings.mlr.press/v80/ivanov18a/ivanov18a.pdf) [[Code]](https://github.com/nd7141/AWE)
 
-- **Scalable Global Alignment Graph Kernel Using Random Features: From Node Embedding to Graph Embedding (KDD'19).** [[Paper]]() [[Code]](https://sites.google.com/a/email.wm.edu/teddy-lfwu/publications?authuser=0)
+- **Scalable Global Alignment Graph Kernel Using Random Features: From Node Embedding to Graph Embedding (KDD'19).** [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/rt1709o-wuAemb.pdf) [[Code]](https://sites.google.com/a/email.wm.edu/teddy-lfwu/publications?authuser=0)
