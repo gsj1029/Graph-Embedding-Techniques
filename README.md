@@ -106,7 +106,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 #### 3.5. Rare Category Characterization
 
-- **SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization (KDD'18).** [[Paper]](http://www.public.asu.edu/~dzhou23/papers/KDD2018_SPARC.pdf) [[Code]](https://www.public.asu.edu/~dzhou23/)
+- **SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization (KDD'18).** [[Paper]](http://www.public.asu.edu/~dzhou23/papers/KDD2018_SPARC.pdf) [[Code]](https://sites.google.com/view/dawei-zhou/publications)
 
 - **RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding (AAAI'18).**
 [[Paper]](https://pdfs.semanticscholar.org/ae42/7d5ca009bf1af53af01249e19d67385744ff.pdf) [[Code]](https://github.com/zhengwang100/RSDNE)
