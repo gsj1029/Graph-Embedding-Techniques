@@ -102,7 +102,7 @@ It provides some interesting graph embedding techniques based on task-free or ta
 
 #### 3.4. Community Detection
 
-- **Supervised Community Detection with Line Graph Neural Networks (ICLR'19).** [[Paper]](https://arxiv.org/pdf/1705.08415.pdf) [[Code]](https://github.com/afansi/multiscalegnn)
+- **Supervised Community Detection with Line Graph Neural Networks (ICLR'19).** [[Paper]](https://openreview.net/pdf?id=H1g0Z3A9Fm) [[OpenReview]](https://openreview.net/forum?id=H1g0Z3A9Fm) [[Code]](https://github.com/afansi/multiscalegnn)
 
 #### 3.5. Rare Category Characterization
 
